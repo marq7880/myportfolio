@@ -86,7 +86,7 @@ a {
 
 h1 {
     color: #393939;
-    font-size: 70px;
+    font-size: 50px;
     margin-top: 250px;
     margin-bottom: 250px;
     margin-left: 160px;
@@ -291,7 +291,9 @@ h5 {
     transition: transform .3s, top .3s, background-color 0s;
     transition: transform .3s, top .3s, background-color 0s, -webkit-transform .3s;
 }
-
+.ff-libre {
+	font-family: 'Libre Franklin', sans-serif !important;
+}
 .box-primary-nav-trigger .box-menu-icon::before {
     top: -10px;
 }
