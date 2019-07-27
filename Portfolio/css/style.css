@@ -352,7 +352,6 @@ h5 {
     width: 100%;
     background: rgba(0, 0, 0, 0.96);
     z-index: 2;
-    text-align: center;
     padding: 50px 0;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -1218,5 +1217,18 @@ textarea:focus {
     
     
     
+    
+}
+
+
+.mb--5{
+    
+    margin-left: 160px;
+    margin-bottom: 20rem;
+}
+
+.title--overhead{
+    font-family: "Roboto", sans-serif;
+    letter-spacing: .1rem;
     
 }
